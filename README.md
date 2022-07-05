@@ -14,9 +14,9 @@
 
 <h1>
     <p align='center'>Congratulations
-    <img src="https://images.crystalcomments.com/1/607165227e878a4371.gif" width="30px"/></p>
+    <img src="https://images.crystalcomments.com/1/607165227e878a4371.gif" width="30"/></p>
     <p align='center'>You have visited the page of a promising developer Evgeniy
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></p>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></p>
 </h1>
 <div align="center">
     <img src="img/github-wallpaper.png" width="500" height="300">
